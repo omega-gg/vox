@@ -1,4 +1,4 @@
-<a href="http://omega.gg/vox"><img src="dist/vox.png" alt="vox" width="320px"></a>
+<a href="http://omega.gg/vox"><img src="dist/vox.png" alt="vox" width="512px"></a>
 ---
 
 [vox](https://omega.gg/MotionBox) is the first tevolution hub on the Internet.<br>
