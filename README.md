@@ -1,4 +1,4 @@
-<a href="http://omega.gg/vox"><img src="dist/vox.png" alt="vox" width="128px"></a>
+<a href="http://omega.gg/vox"><img src="dist/vox.png" alt="vox" width="320px"></a>
 ---
 
 [vox](https://omega.gg/MotionBox) is the first tevolution hub on the Internet.<br>
@@ -7,7 +7,7 @@ It showcases [VBML](https://omega.gg/VBML) capabilities while aggregating neat t
 
 ## Feeds
 
-- [vox progress](playlist/progress.vbml): Feed dedicated to innovation in the streaming field.
+- [vox progress](playlist/progress.vbml): Feed dedicated to innovation in the video streaming field.
 - [vox electro](playlist/electro.vbml): Feed dedicated to electronic music and its different variations.
 - [vox retro](playlist/retro.vbml): Playlist aggregating live streams from the past.
 
