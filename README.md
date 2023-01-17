@@ -1,4 +1,4 @@
-<a href="dist/vox.png"><img src="dist/vox.png" alt="vox" width="512px"></a>
+<a href="https://omega.gg/vox"><img src="dist/vox.png" alt="vox" width="512px"></a>
 ---
 
 [vox](https://omega.gg/MotionBox) is the first video hub on the Internet.<br>
