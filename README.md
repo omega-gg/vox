@@ -1,7 +1,7 @@
 <a href="dist/vox.png"><img src="dist/vox.png" alt="vox" width="512px"></a>
 ---
 
-[vox](https://omega.gg/MotionBox) is the first tevolution hub on the Internet.<br>
+[vox](https://omega.gg/MotionBox) is the first video hub on the Internet.<br>
 It's designed for a semantic player like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
 It showcases [VBML](https://omega.gg/VBML) capabilities while aggregating neat tracks.<br>
 
