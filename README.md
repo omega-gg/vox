@@ -5,7 +5,7 @@
 It's designed for a semantic player like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
 It showcases [VBML](https://omega.gg/VBML) capabilities while aggregating neat tracks.<br>
 
-## Access to vox
+## VideoTag
 
 <a href="dist/voxTag.png"><img src="dist/voxTag.png" alt="voxTag" width="128px"></a>
 
