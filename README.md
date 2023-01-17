@@ -9,7 +9,7 @@ It showcases [VBML](https://omega.gg/VBML) capabilities while aggregating neat t
 
 <a href="dist/tagVox.png"><img src="dist/tagVox.png" alt="tagVox" width="128px"></a>
 
-Scan or drop this VideoTag from your [Semantic Player](https://omega.gg/about/SemanticPlayer).
+Scan or drop this VideoTag from your [Semantic Player](https://omega.gg/about/SemanticPlayer).<br>
 Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search bar.
 
 ## Feeds
