@@ -10,4 +10,6 @@ tracks:
     track:
         source: https://omega.gg/vox
     track:
+        title: CNN
+        cover: https://camo.githubusercontent.com/27dd32066c08c0297a1b6668da5f100e40d591e59e27674e72b608b1fcc52665/68747470733a2f2f692e696d6775722e636f6d2f767972633149312e706e67
         source: https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
