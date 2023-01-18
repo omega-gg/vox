@@ -4,5 +4,7 @@ type: feed
 
 title: vox progress
 
+cover: icons/progress.png
+
 tracks: |
     https://omega.gg/vox
