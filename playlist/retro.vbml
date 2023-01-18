@@ -58,9 +58,6 @@ tracks:
         title: NRJ 12
         source: https://s13.tntendirect.com/nrj12/live/playlist.m3u8
     track:
-        title: BFM TV
-        source: https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
-    track:
         title: CStar
         source: https://s13.tntendirect.com/d17/live/playlist.m3u8
     track:
