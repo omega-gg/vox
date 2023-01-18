@@ -13,3 +13,7 @@ tracks:
         title: CNN
         cover: https://camo.githubusercontent.com/27dd32066c08c0297a1b6668da5f100e40d591e59e27674e72b608b1fcc52665/68747470733a2f2f692e696d6775722e636f6d2f767972633149312e706e67
         source: https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+    track:
+        title: TF1
+        cover: https://camo.githubusercontent.com/3c0298dca38362eaf9e3f650db3050e2d4c68a71484be159727955216edba902/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64632f5446315f6c6f676f5f323031332e706e672f363270782d5446315f6c6f676f5f323031332e706e67
+        source: https://s13.tntendirect.com/tf1/live/playlist.m3u8
