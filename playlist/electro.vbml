@@ -4,6 +4,8 @@ type: feed
 
 title: vox electro
 
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/icons/progress.png
+
 tracks: |
     https://omega.gg/vox
     https://www.youtube.com/watch?v=Ir1yFwBFP0s
