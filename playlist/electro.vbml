@@ -4,7 +4,7 @@ type: feed
 
 title: vox electro
 
-cover: https://raw.githubusercontent.com/omega-gg/vox/master/icons/electro.png
+cover: icons/electro.png
 
 tracks: |
     https://omega.gg/vox
