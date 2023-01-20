@@ -40,44 +40,58 @@ tracks:
         source: https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
     track:
         title: Now 80s
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/now.png
         source: https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
     track:
         title: Sky News
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/sky.png
         source: https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
     track:
         title: TF1
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/tf1.png
         source: https://s13.tntendirect.com/tf1/live/playlist.m3u8
     track:
         title: France 2
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/france2.png
         source: https://s13.tntendirect.com/france2/live/playlist.m3u8
     track:
         title: France 3
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/france3.png
         source: https://s13.tntendirect.com/france3/live/playlist.m3u8
     track:
         title: Arte
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/arte.png
         source: https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
     track:
         title: M6
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/m6.png
         source: https://s13.tntendirect.com/m6/live/playlist.m3u8
     track:
         title: C8
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/c8.png
         source: https://s13.tntendirect.com/d8/live/playlist.m3u8
     track:
         title: W9
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/w9.png
         source: https://s13.tntendirect.com/w9/live/playlist.m3u8
     track:
         title: TFX
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/tfx.png
         source: https://s13.tntendirect.com/nt1/live/playlist.m3u8
     track:
         title: NRJ 12
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/nrj.png
         source: https://s13.tntendirect.com/nrj12/live/playlist.m3u8
     track:
         title: CStar
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/cstar.png
         source: https://s13.tntendirect.com/d17/live/playlist.m3u8
     track:
         title: TF1 Séries Films
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/tf1Films.png
         source: https://s13.tntendirect.com/hd1/live/playlist.m3u8
     track:
         title: L'Équipe
+        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/equipe.png
         source: https://s13.tntendirect.com/lequipe21/live/playlist.m3u8
 
