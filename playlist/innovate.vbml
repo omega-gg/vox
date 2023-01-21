@@ -1,0 +1,10 @@
+# vbml 1.0.4
+
+type: feed
+
+title: vox innovate
+
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/icons/innovate.png
+
+tracks: |
+    https://omega.gg/vox/hub

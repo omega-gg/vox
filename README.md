@@ -14,7 +14,7 @@ Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search b
 
 ## Feeds
 
-- [vox progress](playlist/progress.vbml): Feed dedicated to innovation in the video streaming field.
+- [vox innovate](playlist/innovate.vbml): Feed dedicated to innovation in the video streaming field.
 - [vox electro](playlist/electro.vbml): Feed dedicated to electronic music and its different variations.
 - [vox retro](playlist/retro.vbml): Playlist aggregating live streams from the past.
 
