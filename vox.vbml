@@ -6,6 +6,6 @@ type: hub
 
 media: https://www.youtube.com/watch?v=R6P0ucuZaRY
 
-title: vox hub
+title: vox
 
-cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/vox.png
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/dist/vox.png

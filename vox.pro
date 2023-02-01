@@ -1,5 +1,5 @@
 OTHER_FILES += README.md \
-               hub.vbml \
+               vox.vbml \
                playlist/innovate.vbml \
                playlist/electro.vbml \
                playlist/retro.vbml \
