@@ -3,3 +3,4 @@ OTHER_FILES += README.md \
                playlist/innovate.vbml \
                playlist/electro.vbml \
                playlist/retro.vbml \
+               playlist/hubs.vbml \
