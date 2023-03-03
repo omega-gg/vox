@@ -12,3 +12,4 @@ OTHER_FILES += README.md \
                hub/avatar/track/avatar.vbml \
                hub/avatar/playlist/trailers.vbml \
                hub/avatar/playlist/makingOf.vbml \
+               hub/avatar/playlist/explore.vbml \
