@@ -1,0 +1,31 @@
+# vbml 1.0.4
+
+type: playlist
+
+title: The Mandalorian
+
+tracks:
+    track:
+        title: The Mandalorian s01e01: The Mandalorian
+        cover: https://www.themoviedb.org/t/p/original/lr8OEa0GzjZ0qmD9NuuMj6TRWxF.jpg
+    track:
+        title: The Mandalorian s01e02: The Child
+        cover: https://www.themoviedb.org/t/p/original/b8y9qAq2ZdU27Ua1lJxyNQbmzQE.jpg
+    track:
+        title: The Mandalorian s01e03: The Sin
+        cover: https://www.themoviedb.org/t/p/original/5wGkymV2D9P9ZGI2wP0PefIwFol.jpg
+    track:
+        title: The Mandalorian s01e04: Sanctuary
+        cover: https://www.themoviedb.org/t/p/original/cKyE2gtQT5zIpLQHnD3mFNWrKud.jpg
+    track:
+        title: The Mandalorian s01e05: The Gunslinger
+        cover: https://www.themoviedb.org/t/p/original/o6enRShRThpenWqtaC5lXNsEa8w.jpg
+    track:
+        title: The Mandalorian s01e06: The Prisoner
+        cover: https://www.themoviedb.org/t/p/original/7Z9Bc58uLnp8gIDGtdi0jNEqYZY.jpg
+    track:
+        title: The Mandalorian s01e07: The Reckoning
+        cover: https://www.themoviedb.org/t/p/original/m483Gihn8vAt0cW5RXe5YRtchIQ.jpg
+    track:
+        title: The Mandalorian s01e08: Redemption
+        cover: https://www.themoviedb.org/t/p/original/v36aZwxTsPAvqsssLPVno3VFvg5.jpg

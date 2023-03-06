@@ -13,3 +13,4 @@ OTHER_FILES += README.md \
                hub/avatar/playlist/trailers.vbml \
                hub/avatar/playlist/makingOf.vbml \
                hub/avatar/playlist/explore.vbml \
+               hub/mandalorian/playlist/episodes.vbml \
