@@ -4,6 +4,7 @@ OTHER_FILES += README.md \
                playlist/electro.vbml \
                playlist/retro.vbml \
                playlist/hubs.vbml \
+               hub/tmdb/tmdb.vbml \
                hub/coldplay/coldplay.vbml \
                hub/coldplay/playlist/album.vbml \
                hub/coldplay/playlist/clips.vbml \
