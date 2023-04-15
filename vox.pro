@@ -6,6 +6,7 @@ OTHER_FILES += README.md \
                playlist/hubs.vbml \
                hub/tmdb/tmdb.vbml \
                hub/twitch/twitch.vbml \
+               hub/twitch/hub/collection.vbml \
                hub/coldplay/coldplay.vbml \
                hub/coldplay/playlist/album.vbml \
                hub/coldplay/playlist/clips.vbml \
