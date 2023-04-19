@@ -18,10 +18,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">62431</property>
+  <property name="kdenlive:file_size">69230</property>
   <property name="kdenlive:originalurl">data/front.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">eaa0c0ef1c89662606f805e7a03c8aac</property>
+  <property name="kdenlive:file_hash">ffe517bef1cc2b15c235493d10673579</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
@@ -88,7 +88,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.12.1</property>
-  <property name="kdenlive:docproperties.position">315</property>
+  <property name="kdenlive:docproperties.position">3077</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">qhd_1440p_60</property>
