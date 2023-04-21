@@ -3,6 +3,7 @@ OTHER_FILES += README.md \
                playlist/innovate.vbml \
                playlist/electro.vbml \
                playlist/retro.vbml \
+               playlist/demos.vbml \
                playlist/hubs.vbml \
                hub/tmdb/tmdb.vbml \
                hub/tmdb/hub/netflix/netflix.vbml \
