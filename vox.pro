@@ -5,6 +5,9 @@ OTHER_FILES += README.md \
                playlist/retro.vbml \
                playlist/hubs.vbml \
                hub/tmdb/tmdb.vbml \
+               hub/tmdb/hub/netflix/netflix.vbml \
+               hub/tmdb/hub/netflix/playlist/movies.vbml \
+               hub/tmdb/hub/netflix/playlist/shows.vbml \
                hub/twitch/twitch.vbml \
                hub/twitch/hub/collection.vbml \
                hub/coldplay/coldplay.vbml \
