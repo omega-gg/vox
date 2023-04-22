@@ -9,6 +9,9 @@ OTHER_FILES += README.md \
                hub/tmdb/hub/netflix/netflix.vbml \
                hub/tmdb/hub/netflix/playlist/movies.vbml \
                hub/tmdb/hub/netflix/playlist/shows.vbml \
+               hub/tmdb/hub/disney/disney.vbml \
+               hub/tmdb/hub/disney/playlist/movies.vbml \
+               hub/tmdb/hub/disney/playlist/shows.vbml \
                hub/twitch/twitch.vbml \
                hub/twitch/hub/collection.vbml \
                hub/coldplay/coldplay.vbml \
