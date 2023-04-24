@@ -12,11 +12,19 @@ It showcases [VBML](https://omega.gg/VBML) capabilities while aggregating neat t
 Scan or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer).<br>
 Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search bar.
 
+## Hubs
+
+- [The Movie Database](hub/tmdb/tmdb.vbml): Hub dedicated to The Movie Database aka TMDB.
+- [Twitch](hub/twitch/twitch.vbml): Hub dedicated to the Twitch gaming platform.
+- [Netflix](hub/netflix/netflix.vbml): Hub aggregating trailers for the Netflix platform.
+- [Disney+](hub/disney/disney.vbml): Hub aggregating trailers for the Disney+ platform.
+- [Apple TV+](hub/apple/apple.vbml): Hub aggregating trailers for the Apple TV+ platform.
+
 ## Feeds
 
 - [vox innovate](playlist/innovate.vbml): Feed dedicated to innovation in the video streaming field.
-- [vox electro](playlist/electro.vbml): Feed dedicated to electronic music and its different variations.
 - [vox retro](playlist/retro.vbml): Playlist aggregating live streams from the past.
+- [vox demos](playlist/demos.vbml): Playlist with a selection of video hub demonstrations.
 
 ## Related projects
 
