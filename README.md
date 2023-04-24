@@ -14,11 +14,11 @@ Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search b
 
 ## Hubs
 
-- [The Movie Database](hub/tmdb/tmdb.vbml): Hub dedicated to The Movie Database aka TMDB.
-- [Twitch](hub/twitch/twitch.vbml): Hub dedicated to the Twitch gaming platform.
-- [Netflix](hub/tmdb/hub/netflix/netflix.vbml): Hub aggregating trailers for the Netflix platform.
-- [Disney+](hub/tmdb/hub/disney/disney.vbml): Hub aggregating trailers for the Disney+ platform.
-- [Apple TV+](hub/tmdb/hub/apple/apple.vbml): Hub aggregating trailers for the Apple TV+ platform.
+- [The Movie Database](hub/tmdb): Hub dedicated to The Movie Database aka TMDB.
+- [Twitch](hub/twitch): Hub dedicated to the Twitch gaming platform.
+- [Netflix](hub/tmdb/hub/netflix): Hub aggregating trailers for the Netflix platform.
+- [Disney+](hub/tmdb/hub/disney): Hub aggregating trailers for the Disney+ platform.
+- [Apple TV+](hub/tmdb/hub/apple): Hub aggregating trailers for the Apple TV+ platform.
 
 ## Feeds
 
