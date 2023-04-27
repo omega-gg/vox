@@ -2,8 +2,8 @@
 
 type: hub
 
-media: https://odysee.com/disney:f2
-
 title: Disney+
 
 cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/hub/disney/disney.png
+
+media: https://odysee.com/disney:f2

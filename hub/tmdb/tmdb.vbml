@@ -2,8 +2,8 @@
 
 type: hub
 
-media: https://odysee.com/tmdb:a
-
 title: The Movie Database
 
 cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/tmdb.png
+
+media: https://odysee.com/tmdb:a

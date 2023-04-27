@@ -2,8 +2,8 @@
 
 type: hub
 
-media: https://odysee.com/twitch-collection:9
-
 title: Twitch: collections
 
 cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/twitch/twitch.png
+
+media: https://odysee.com/twitch-collection:9
