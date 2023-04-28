@@ -17,6 +17,9 @@ OTHER_FILES += README.md \
                hub/tmdb/hub/apple/playlist/shows.vbml \
                hub/twitch/twitch.vbml \
                hub/twitch/hub/collection.vbml \
+               hub/blender/blender.vbml \
+               hub/blender/playlist/films.vbml \
+               hub/blender/playlist/channels.vbml \
                hub/coldplay/coldplay.vbml \
                hub/coldplay/playlist/album.vbml \
                hub/coldplay/playlist/clips.vbml \
