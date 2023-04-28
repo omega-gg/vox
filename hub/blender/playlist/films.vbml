@@ -8,6 +8,8 @@ cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/blender/blender
 
 tracks:
     track:
+        source: https://omega.gg/vox/blender
+    track:
         title: Charge (2022)
         source: https://www.youtube.com/watch?v=UXqq0ZvbOnk
     track:
