@@ -1,0 +1,9 @@
+# vbml 1.0.4
+
+type: playlist
+
+title: HBO Max: shows
+
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/hub/max/max.png
+
+source: vbml://run?backend=tmdb&method=view&q=discover%2Ftv%3Fsort_by%3Dpopularity.desc%26with_watch_providers%3D384%26watch_region%3DUS

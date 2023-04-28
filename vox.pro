@@ -15,6 +15,9 @@ OTHER_FILES += README.md \
                hub/tmdb/hub/apple/apple.vbml \
                hub/tmdb/hub/apple/playlist/movies.vbml \
                hub/tmdb/hub/apple/playlist/shows.vbml \
+               hub/tmdb/hub/max/max.vbml \
+               hub/tmdb/hub/max/playlist/movies.vbml \
+               hub/tmdb/hub/max/playlist/shows.vbml \
                hub/twitch/twitch.vbml \
                hub/twitch/hub/collection.vbml \
                hub/blender/blender.vbml \
