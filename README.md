@@ -1,7 +1,7 @@
 <a href="https://omega.gg/vox"><img src="vox.png" alt="vox" width="512px"></a>
 ---
 
-[vox](https://omega.gg/MotionBox) is the first video hub on the Internet.<br>
+[vox](https://omega.gg/vox) is the first video hub on the Internet.<br>
 It's designed for a semantic player like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
 It showcases [VBML](https://omega.gg/VBML) capabilities while aggregating neat tracks.<br>
 
@@ -16,9 +16,11 @@ Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search b
 
 - [The Movie Database](hub/tmdb): Hub dedicated to The Movie Database aka TMDB.
 - [Twitch](hub/twitch): Hub dedicated to the Twitch gaming platform.
+- [Blender](hub/blender): Hub aggregating films from the Blender Studio.
 - [Netflix](hub/tmdb/hub/netflix): Hub aggregating trailers for the Netflix platform.
 - [Disney+](hub/tmdb/hub/disney): Hub aggregating trailers for the Disney+ platform.
 - [Apple TV+](hub/tmdb/hub/apple): Hub aggregating trailers for the Apple TV+ platform.
+- [HBO Max](hub/tmdb/hub/max): Hub aggregating trailers for the HBO Max platform.
 
 ## Feeds
 
