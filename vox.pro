@@ -6,6 +6,8 @@ OTHER_FILES += README.md \
                playlist/demos.vbml \
                playlist/hubs.vbml \
                hub/tmdb/tmdb.vbml \
+               hub/tmdb/hub/movies/movies.vbml \
+               hub/tmdb/hub/shows/shows.vbml \
                hub/tmdb/hub/netflix/netflix.vbml \
                hub/tmdb/hub/netflix/playlist/movies.vbml \
                hub/tmdb/hub/netflix/playlist/shows.vbml \
