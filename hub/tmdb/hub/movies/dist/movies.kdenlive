@@ -18,10 +18,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">94508</property>
+  <property name="kdenlive:file_size">91258</property>
   <property name="kdenlive:originalurl">data/frontA.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">44a0d3ede790641bd7c1f9835349e301</property>
+  <property name="kdenlive:file_hash">84aeb08d7d7e8bb7e8f5f0cf54f55e79</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:29.983">
   <property name="length">00:00:30.000</property>
@@ -40,10 +40,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">86430</property>
+  <property name="kdenlive:file_size">84521</property>
   <property name="kdenlive:originalurl">data/frontB.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">74f33cfcf82fd2fd80e455198b59680e</property>
+  <property name="kdenlive:file_hash">51694f76f5e802072e033acc7c18d2de</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
@@ -137,7 +137,7 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">C:/Users/bunjee/Videos/twitch-collection.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">C:/Users/bunjee/Videos/tmdb-movies.mp4</property>
   <property name="kdenlive:docproperties.scrollPos">0</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
