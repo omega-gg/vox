@@ -18,10 +18,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">94508</property>
+  <property name="kdenlive:file_size">94636</property>
   <property name="kdenlive:originalurl">data/frontA.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">44a0d3ede790641bd7c1f9835349e301</property>
+  <property name="kdenlive:file_hash">83b53008d2fc02dfa7241094559a9b70</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:29.983">
   <property name="length">00:00:30.000</property>
@@ -40,10 +40,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">86430</property>
+  <property name="kdenlive:file_size">86432</property>
   <property name="kdenlive:originalurl">data/frontB.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">74f33cfcf82fd2fd80e455198b59680e</property>
+  <property name="kdenlive:file_hash">484f4185ec564f6ba376cdf42ce650b1</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
@@ -138,7 +138,7 @@
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">C:/Users/bunjee/Videos/tmdb-shows.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.scrollPos">234</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>

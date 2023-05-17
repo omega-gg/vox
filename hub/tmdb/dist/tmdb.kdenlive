@@ -1,26 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mlt LC_NUMERIC="C" producer="main_bin" version="7.13.0" root="C:/dev/workspace/vox/hub/tmdb/dist">
  <profile frame_rate_num="60" sample_aspect_num="1" display_aspect_den="9" colorspace="709" progressive="1" description="2.5K QHD 1440p 60 fps" display_aspect_num="16" frame_rate_den="1" width="2560" height="1440" sample_aspect_den="1"/>
- <producer id="producer0" in="00:00:00.000" out="00:00:32.450">
-  <property name="length">1948</property>
-  <property name="eof">pause</property>
-  <property name="resource">data/frontB.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="format">2</property>
-  <property name="meta.media.width">2560</property>
-  <property name="meta.media.height">1440</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">71514</property>
-  <property name="kdenlive:file_hash">fba22fba6f6ea6ccfc87c1a1e4911bf5</property>
- </producer>
  <producer id="producer1" in="00:00:00.000" out="00:01:01.033">
   <property name="length">00:01:01.050</property>
   <property name="eof">pause</property>
@@ -38,9 +18,30 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">0</property>
+  <property name="kdenlive:file_size">72252</property>
   <property name="kdenlive:originalurl">data/frontA.png</property>
   <property name="kdenlive:proxy">-</property>
+  <property name="kdenlive:file_hash">216c53324ae32fbf8401ef2630eef0ac</property>
+ </producer>
+ <producer id="producer0" in="00:00:00.000" out="00:00:32.450">
+  <property name="length">1948</property>
+  <property name="eof">pause</property>
+  <property name="resource">data/frontB.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">2</property>
+  <property name="meta.media.width">2560</property>
+  <property name="meta.media.height">1440</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">72033</property>
+  <property name="kdenlive:file_hash">6a1bab4e16dfe541526daf3c830e2303</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
@@ -146,8 +147,8 @@
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
-  <entry producer="producer0" in="00:00:00.000" out="00:00:04.983"/>
   <entry producer="producer1" in="00:00:00.000" out="00:01:01.033"/>
+  <entry producer="producer0" in="00:00:00.000" out="00:00:32.450"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:09:20.000">
   <property name="length">2147483647</property>
