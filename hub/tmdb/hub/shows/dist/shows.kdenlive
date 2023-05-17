@@ -18,10 +18,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">94636</property>
+  <property name="kdenlive:file_size">94363</property>
   <property name="kdenlive:originalurl">data/frontA.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">83b53008d2fc02dfa7241094559a9b70</property>
+  <property name="kdenlive:file_hash">dc46c400bb3425800994e770dcc32013</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:29.983">
   <property name="length">00:00:30.000</property>
@@ -40,10 +40,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">86432</property>
+  <property name="kdenlive:file_size">86663</property>
   <property name="kdenlive:originalurl">data/frontB.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">484f4185ec564f6ba376cdf42ce650b1</property>
+  <property name="kdenlive:file_hash">e728a1d99ed3d984bbf08c32a844bb8b</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
