@@ -18,8 +18,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">93004</property>
-  <property name="kdenlive:file_hash">8634421bea1b15935cb589f0908eceab</property>
+  <property name="kdenlive:file_size">92812</property>
+  <property name="kdenlive:file_hash">18f31f09101eb1770f32b3cc19df35f5</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:29.983">
   <property name="length">1800</property>
@@ -38,8 +38,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">90982</property>
-  <property name="kdenlive:file_hash">344d76bd98d42cb582d969847fcf7a4b</property>
+  <property name="kdenlive:file_size">90409</property>
+  <property name="kdenlive:file_hash">be7b19d60682c5ecaa755c2544dbd5d9</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
@@ -106,7 +106,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.12.1</property>
-  <property name="kdenlive:docproperties.position">1895</property>
+  <property name="kdenlive:docproperties.position">2448</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">qhd_1440p_60</property>
@@ -134,7 +134,7 @@
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">C:/Users/bunjee/Videos/twitch-collection.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">462</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
