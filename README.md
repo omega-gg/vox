@@ -16,11 +16,11 @@ Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search b
 
 - [The Movie Database](hub/tmdb): Hub dedicated to The Movie Database aka TMDB.
 - [Twitch](hub/twitch): Hub dedicated to the Twitch gaming platform.
-- [Blender](hub/blender): Hub aggregating films from the Blender Studio.
 - [Netflix](hub/tmdb/hub/netflix): Hub aggregating trailers for the Netflix platform.
 - [Disney+](hub/tmdb/hub/disney): Hub aggregating trailers for the Disney+ platform.
 - [Apple TV+](hub/tmdb/hub/apple): Hub aggregating trailers for the Apple TV+ platform.
 - [HBO Max](hub/tmdb/hub/max): Hub aggregating trailers for the HBO Max platform.
+- [Blender](hub/blender): Hub aggregating films from the Blender Studio.
 
 ## Feeds
 
