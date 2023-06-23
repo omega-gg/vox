@@ -7,11 +7,11 @@ title: vox hubs
 cover: https://raw.githubusercontent.com/omega-gg/vox/master/icons/vox.png
 
 tracks: |
-    https://omega.gg/vox
     https://omega.gg/vox/tmdb
     https://omega.gg/vox/twitch
-    https://omega.gg/vox/blender
     https://omega.gg/vox/netflix
     https://omega.gg/vox/disney
     https://omega.gg/vox/apple
     https://omega.gg/vox/max
+    https://omega.gg/vox/blender
+    https://omega.gg/vox
