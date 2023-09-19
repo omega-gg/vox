@@ -1,9 +1,9 @@
 <a href="https://omega.gg/vox"><img src="vox.png" alt="vox" width="512px"></a>
 ---
 
-[vox](https://omega.gg/vox) is the first video hub on the Internet.<br>
-It's designed for a semantic player like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
-It showcases [VBML](https://omega.gg/VBML) capabilities while aggregating neat tracks.<br>
+[vox](https://omega.gg/vox) is the first [tevolution](https://omega.gg/about/tevolution) video network on the Internet.<br>
+It's a collection of [VBML](https://omega.gg/VBML) channels and hubs aggregated via a central hub.<br>
+[omega](https://omega.gg/about) is building vox to empower people.<br>
 
 ## Access to vox
 
@@ -11,6 +11,11 @@ It showcases [VBML](https://omega.gg/VBML) capabilities while aggregating neat t
 
 Scan or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer).<br>
 Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search bar.
+
+## Channels
+
+- [vox populi](https://omega.gg/voxPopuli): tevolution channel dedicated to empower french
+citizens.
 
 ## Hubs
 
