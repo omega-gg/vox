@@ -14,7 +14,7 @@ Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search b
 
 ## Channels
 
-- [vox populi](https://omega.gg/voxPopuli): tevolution channel dedicated to empower french citizens.
+- [vox populi](https://omega.gg/voxPopuli): Channel designed to empower french citizens.
 
 ## Hubs
 
