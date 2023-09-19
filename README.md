@@ -1,7 +1,7 @@
 <a href="https://omega.gg/vox"><img src="vox.png" alt="vox" width="512px"></a>
 ---
 
-[vox](https://omega.gg/vox) is the first [tevolution](https://omega.gg/about/tevolution) video network on the Internet.<br>
+[vox](https://omega.gg/vox) is the first [tevolution](https://omega.gg/about/tevolution) network on the Internet.<br>
 It's a collection of [VBML](https://omega.gg/VBML) channels and hubs aggregated via a central hub.<br>
 [omega](https://omega.gg/about) is building vox to empower people.<br>
 
@@ -9,7 +9,7 @@ It's a collection of [VBML](https://omega.gg/VBML) channels and hubs aggregated 
 
 <a href="dist/voxTag.png"><img src="dist/voxTag.png" alt="voxTag" width="128px"></a>
 
-Scan or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer).<br>
+Scan or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer) like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
 Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search bar.
 
 ## Channels
