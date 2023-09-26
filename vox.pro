@@ -2,7 +2,7 @@ OTHER_FILES += README.md \
                vox.vbml \
                playlist/innovate.vbml \
                playlist/electro.vbml \
-               playlist/retro.vbml \
+               playlist/channels.vbml \
                playlist/demos.vbml \
                playlist/hubs.vbml \
                hub/tmdb/tmdb.vbml \

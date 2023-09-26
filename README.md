@@ -28,8 +28,7 @@ Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search b
 
 ## Feeds
 
-- [vox innovate](playlist/innovate.vbml): Feed dedicated to innovation in the video streaming field.
-- [vox retro](playlist/retro.vbml): Playlist aggregating live streams from the past.
+- [vox channels](playlist/channels.vbml): Playlist with a selection of tevolution and retro channels.
 - [vox demos](playlist/demos.vbml): Playlist with a selection of video hub demonstrations.
 
 ## Related projects

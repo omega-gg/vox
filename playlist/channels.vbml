@@ -2,18 +2,20 @@
 
 type: playlist
 
-title: vox retro
+title: vox channels
 
-cover: https://raw.githubusercontent.com/omega-gg/vox/master/icons/retro.png
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/icons/channels.png
 
 # NOTE: Credits goes to https://github.com/Free-TV/IPTV.
 tracks:
     track:
         source: https://omega.gg/vox
     track:
-        title: CNN
-        cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/cnn.png
-        source: https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+        source: https://omega.gg/voxPopuli
+    #track:
+    #    title: CNN
+    #    cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/cnn.png
+    #    source: https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
     track:
         title: Bloomberg
         cover: https://raw.githubusercontent.com/omega-gg/vox/master/cover/retro/bloomberg.png
