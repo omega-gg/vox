@@ -7,9 +7,9 @@ It's a collection of [VBML](https://omega.gg/VBML) channels and hubs aggregated 
 
 ## Access to vox
 
-<a href="dist/voxTag.png"><img src="dist/voxTag.png" alt="voxTag" width="128px"></a>
+<a href="https://omega.gg/vox/vbml"><img src="dist/voxTag.png" alt="voxTag" width="128px"></a>
 
-Scan or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer) like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
+Click or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer) like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
 Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search bar.
 
 ## Channels
