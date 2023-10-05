@@ -1,5 +1,6 @@
 <a href="https://omega.gg/vox"><img src="vox.png" alt="vox" width="512px"></a>
 ---
+[![Discord](https://img.shields.io/discord/705770212485496852)](https://omega.gg/discord)
 
 [vox](https://omega.gg/vox) is the first [tevolution](https://omega.gg/about/tevolution) network on the Internet.<br>
 It's a collection of [VBML](https://omega.gg/VBML) channels and hubs aggregated via a central hub.<br>
