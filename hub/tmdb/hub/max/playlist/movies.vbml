@@ -6,4 +6,4 @@ title: HBO Max: movies
 
 cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/hub/max/max.png
 
-source: vbml://run?backend=tmdb&method=view&q=discover%2Fmovie%3Fsort_by%3Dpopularity.desc%26with_watch_providers%3D1899%26watch_region%3DUS
+source: vbml:run?backend=tmdb&method=view&q=discover%2Fmovie%3Fsort_by%3Dpopularity.desc%26with_watch_providers%3D1899%26watch_region%3DUS
