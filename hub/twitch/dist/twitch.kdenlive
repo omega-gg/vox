@@ -18,10 +18,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">69230</property>
+  <property name="kdenlive:file_size">69915</property>
   <property name="kdenlive:originalurl">data/frontA.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">ffe517bef1cc2b15c235493d10673579</property>
+  <property name="kdenlive:file_hash">e210d34324e9a6de4cbfd11d5253b0fe</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:59.983">
   <property name="length">3600</property>
@@ -40,8 +40,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">93375</property>
-  <property name="kdenlive:file_hash">5c723a135f0d2947e42968c277832041</property>
+  <property name="kdenlive:file_size">93314</property>
+  <property name="kdenlive:file_hash">0700bf12c22ee3c956e6171321eb7a49</property>
  </producer>
  <producer id="producer2" in="00:00:00.000" out="00:00:29.983">
   <property name="length">1800</property>
@@ -60,8 +60,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">4</property>
-  <property name="kdenlive:file_size">87220</property>
-  <property name="kdenlive:file_hash">2a1ce6d62cd224c719695fbe5d107987</property>
+  <property name="kdenlive:file_size">87310</property>
+  <property name="kdenlive:file_hash">130246ff80dc9820bb6a2ce89d8e9e08</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
@@ -168,8 +168,8 @@
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer0" in="00:00:00.000" out="00:01:01.033"/>
-  <entry producer="producer1" in="00:00:00.000" out="00:00:04.983"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:00:04.983"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:59.983"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:29.983"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:09:50.000">
   <property name="length">2147483647</property>

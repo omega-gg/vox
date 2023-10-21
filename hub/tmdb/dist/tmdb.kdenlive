@@ -18,10 +18,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">75096</property>
+  <property name="kdenlive:file_size">74428</property>
   <property name="kdenlive:originalurl">data/frontA.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">3a94acbd01df54c2c1f5514f13a05e13</property>
+  <property name="kdenlive:file_hash">7e18f13e6921e550cc5b59dde24f7295</property>
  </producer>
  <producer id="producer0" in="00:00:00.000" out="00:00:32.450">
   <property name="length">1948</property>
@@ -40,8 +40,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">98736</property>
-  <property name="kdenlive:file_hash">4dec530a3f349e773146d6264f5640dc</property>
+  <property name="kdenlive:file_size">98378</property>
+  <property name="kdenlive:file_hash">a43a2390b732ca602b404a1741f2ab42</property>
  </producer>
  <producer id="producer2" in="00:00:00.000" out="00:00:29.983">
   <property name="length">1800</property>
@@ -60,8 +60,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">4</property>
-  <property name="kdenlive:file_size">81164</property>
-  <property name="kdenlive:file_hash">e7c3d7b6d130e8c610e7a4605a26666f</property>
+  <property name="kdenlive:file_size">98378</property>
+  <property name="kdenlive:file_hash">a43a2390b732ca602b404a1741f2ab42</property>
  </producer>
  <producer id="producer3" in="00:00:00.000" out="00:00:29.983">
   <property name="length">1800</property>
@@ -80,8 +80,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">5</property>
-  <property name="kdenlive:file_size">102675</property>
-  <property name="kdenlive:file_hash">0d2d613e36f16bc6a2b56dab2dc20b9f</property>
+  <property name="kdenlive:file_size">98378</property>
+  <property name="kdenlive:file_hash">a43a2390b732ca602b404a1741f2ab42</property>
  </producer>
  <producer id="producer4" in="00:00:00.000" out="00:00:29.983">
   <property name="length">1800</property>
@@ -100,8 +100,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">6</property>
-  <property name="kdenlive:file_size">82639</property>
-  <property name="kdenlive:file_hash">8713151082071f71a999c4e030028166</property>
+  <property name="kdenlive:file_size">98378</property>
+  <property name="kdenlive:file_hash">a43a2390b732ca602b404a1741f2ab42</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
@@ -200,7 +200,7 @@
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
   <property name="kdenlive:docproperties.zoom">11</property>
@@ -209,9 +209,9 @@
   <property name="xml_retain">1</property>
   <entry producer="producer1" in="00:00:00.000" out="00:01:01.033"/>
   <entry producer="producer0" in="00:00:00.000" out="00:00:32.450"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:00:04.983"/>
-  <entry producer="producer3" in="00:00:00.000" out="00:00:04.983"/>
-  <entry producer="producer4" in="00:00:00.000" out="00:00:04.983"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:29.983"/>
+  <entry producer="producer3" in="00:00:00.000" out="00:00:29.983"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:00:29.983"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:10:50.000">
   <property name="length">2147483647</property>

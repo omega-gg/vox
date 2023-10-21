@@ -18,10 +18,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">39505</property>
+  <property name="kdenlive:file_size">39494</property>
   <property name="kdenlive:originalurl">data/front.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">6d098ec8f0d4238681fceef3cd9553db</property>
+  <property name="kdenlive:file_hash">77d1653f1ba90efc14850ac23baf42fe</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:21.600">
   <property name="length">1297</property>
@@ -446,7 +446,6 @@
  <playlist id="playlist4">
   <entry producer="producer4" in="00:00:00.000" out="00:00:03.500">
    <property name="kdenlive:id">3</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter6">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>

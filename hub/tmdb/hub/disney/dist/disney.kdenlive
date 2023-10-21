@@ -18,8 +18,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">46649</property>
-  <property name="kdenlive:file_hash">aadd2724a0880284cb33cb9e026d9579</property>
+  <property name="kdenlive:file_size">45678</property>
+  <property name="kdenlive:file_hash">7ee9abf55e6e7e6339c745adc7c574f8</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:05.483">
   <property name="length">330</property>
@@ -100,10 +100,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">4</property>
-  <property name="kdenlive:file_size">497324</property>
+  <property name="kdenlive:file_size">577296</property>
   <property name="kdenlive:originalurl">data/back.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">8f4389a1510fce267b471b84ce9ce8cf</property>
+  <property name="kdenlive:file_hash">be089b748b8cd8aead1b7fb337c7d0bf</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">2</property>
@@ -213,11 +213,11 @@
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">C:/Users/bunjee/Videos/disney.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.scrollPos">74</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
   <property name="kdenlive:docproperties.zoom">11</property>

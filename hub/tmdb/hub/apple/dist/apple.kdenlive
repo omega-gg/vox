@@ -18,10 +18,10 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">41448</property>
+  <property name="kdenlive:file_size">40271</property>
   <property name="kdenlive:originalurl">data/front.png</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:file_hash">bc36b2fe310c592e6a0fcf452974bfe2</property>
+  <property name="kdenlive:file_hash">7301f97f4f5d4f764f80567b87707ba5</property>
  </producer>
  <producer id="producer0" in="00:00:00.000" out="00:01:21.183">
   <property name="length">00:01:21.200</property>
