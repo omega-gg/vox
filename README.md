@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/discord/705770212485496852)](https://omega.gg/discord)
 
 [vox](https://omega.gg/vox) is the first [tevolution](https://omega.gg/about/tevolution) network on the Internet.<br>
-It's a collection of [VBML](https://omega.gg/VBML) channels and hubs aggregated via a central hub.<br>
+It's also a public platform to upload your own [VBML](https://omega.gg/VBML) tracks.<br>
 [omega](https://omega.gg/about) is building vox to empower people.<br>
 
 ## Access to vox
