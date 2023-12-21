@@ -6,6 +6,8 @@
 It's also a public platform to upload your own [VBML](https://omega.gg/VBML) tracks.<br>
 [omega](https://omega.gg/about) is building vox to empower people.<br>
 
+- [vox.omega.gg](https://vox.omega.gg): The first VBML hosting platform.
+
 ## Access to vox
 
 <a href="https://omega.gg/vox/vbml"><img src="dist/voxTag.png" alt="voxTag" width="128px"></a>
