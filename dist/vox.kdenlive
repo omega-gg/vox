@@ -18,8 +18,8 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">63136</property>
-  <property name="kdenlive:file_hash">e59b7f7daadfbbe5edba98eb7de0bb63</property>
+  <property name="kdenlive:file_size">62586</property>
+  <property name="kdenlive:file_hash">6dc352e10c1b58bce381ead8671ada3f</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:08.000">
   <property name="length">481</property>
