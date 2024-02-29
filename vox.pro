@@ -1,5 +1,10 @@
-OTHER_FILES += README.md \
+OTHER_FILES += configure.sh \
+               push.sh \
+               environment.sh \
+               README.md \
                vox.vbml \
+               track/road/road.vbml \
+               track/road/local.vbml \
                playlist/innovate.vbml \
                playlist/electro.vbml \
                playlist/channels.vbml \

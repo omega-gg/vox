@@ -1,0 +1,18 @@
+# vbml 1.0.6
+#--------------------------------------------------------------------------------------------------
+# Visit https://omega.gg/vox for more informations.
+#--------------------------------------------------------------------------------------------------
+
+type: interactive
+
+title: Magic road
+
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/track/road/road.png
+
+context: road
+
+source:
+    hub:
+        id: road
+        duration: 0:25
+        source: /road.mp4
