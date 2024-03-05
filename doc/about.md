@@ -1,7 +1,7 @@
 # Welcome to vox
 
-Your web browser probably packs a decent video player, however that's not sufficient for the level
-of requirements of the [vox](https://vox.omega.gg/about/instance) patform:
+Your web browser probably packs a decent video player, however the [vox](https://vox.omega.gg/about/instance)
+patform has the following requirements:
 - A dedicated language called [VBML](https://omega.gg/VBML)
 - Extensive codecs support
 - Distributed communication protocols
