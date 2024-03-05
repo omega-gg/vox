@@ -37,11 +37,11 @@ There's both a technical reason and an ethical reasoning behind that choice.
 Technically, the web standards are limited in terms of codec support, communication protocols and
 scripting languages. When providing a video service you are bound to follow these standards
 closely. Secondly, when you want a decent level of compatibility you have to take the lowest
-denominator into account in terms of browser implementation so you don't leave anyone behind
-(people who don't update their software frequently). You can cope with this by generating and
-caching different video formats to handle different compatiblity scenarios but that's complicated
-both in technical terms and hosting costs. Bottom line is: at its best, the web browser is a
-capable player but a dedicated video player is substantially better.
+denominator into account in terms of browser implementation so you don't leave anyone behind. You
+can cope with this by generating and caching different video formats to handle different
+compatiblity scenarios but that's complicated both in technical terms and hosting costs. Bottom
+line is: at its best, the web browser is a capable player but a dedicated video player is
+substantially better.
 
 Learn more about the semantic player: https://omega.gg/about/SemanticPlayer
 
