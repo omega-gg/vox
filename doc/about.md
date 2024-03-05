@@ -2,9 +2,9 @@
 
 Your web browser probably packs a decent video player, however the [vox](https://vox.omega.gg/about/instance)
 patform has the following requirements:
-- A dedicated language called [VBML](https://omega.gg/VBML)
+- Support for a dedicated language called [VBML](https://omega.gg/VBML)
 - Extensive codecs support
-- Distributed communication protocols
+- Distributed communication support
 
 For all this, you need a dedicated [Semantic Player](https://omega.gg/about/SemanticPlayer) that
 fits your requirements. At the moment you have the choice between MotionMonkey and MotionBox,
