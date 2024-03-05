@@ -1,7 +1,7 @@
 # Welcome to vox
 
 Your web browser probably packs a decent video player but that's not sufficient for the level of
-innovation we're pushing with the vox patform:
+innovation we're pushing with the [vox](https://vox.omega.gg/about/instance) patform:
 - A dedicated language called [VBML](https://omega.gg/VBML)
 - Extensive codecs support
 - Distributed communication protocols
