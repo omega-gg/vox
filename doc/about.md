@@ -14,7 +14,7 @@ MotionMonkey is the simplest semantic player, with a focus on video playback. It
 variety of platforms including Windows, macOS, Linux, iOS and Android. Pick this one if you want a
 straightforward experience that even a monkey could figure out (no offense to monkeys).
 
-Get MotionMonkey: https://omega.gg/MotionMonkey
+https://omega.gg/MotionMonkey
 
 NOTE: MotionMonkey is closed source and based on Sky kit under the LGPL license.
 
@@ -25,7 +25,7 @@ browsing and editing functionalities. It supports desktop platforms including Wi
 Linux. Pick this one if you're a desktop power user that's not intimidated by a more comprehensive
 user interface.
 
-Get MotionBox: https://omega.gg/MotionBox
+https://omega.gg/MotionBox
 
 NOTE: MotionBox is licensed under the GPL and based on Sky kit under the LPGL license.
 
