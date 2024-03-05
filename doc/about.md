@@ -23,7 +23,7 @@ MotionMonkey is closed source and based on Sky kit under the LGPL license.
 MotionMonkey is a comprehensive semantic player designed for desktop, with a focus on track
 browsing and editing functionalities. It supports several platforms including Windows, macOS and
 Linux. Pick this one if you're a desktop power user that's not intimidated by a more comprehensive
-user interface.
+interface.
 
 https://omega.gg/MotionBox
 
