@@ -1,9 +1,9 @@
 # Welcome to vox
 
-Although the web browser usually packs a decent video player, that's not sufficient to support the
-level of innovation we're pushing with the vox video patform: a dedicated language called VBML,
-extensive codec / backend support and distributed protocols. For this, you need a dedicated
-semantic player that fits your requirements.
+The web browser usually packs a decent video player but that's not sufficient to support the level
+of innovation we're pushing with the vox patform: including a dedicated language called [VBML](https://omega.gg/VBML),
+extensive codec / backend support and distributed protocols. For all this, you need a dedicated
+[Semantic Player](https://omega.gg/about/SemanticPlayer) that fits your requirements.
 
 At the moment you have the choice between MotionMonkey and MotionBox, although implementing a new
 player is quite straightforward with the Sky application kit (LGPL licensed).
