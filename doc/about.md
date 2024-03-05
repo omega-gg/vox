@@ -51,8 +51,8 @@ server. The webmaster does the computation privately and you receive the end res
 client to render. When using a semantic player the relationship with the server is different: the
 intelligence required to retrieve, decode and interact with the data is entirely on your side: the
 client side. The server is essentially a remote entity that stores raw data and blueprints for you
-to run and decode. This approach ensures that the intelligence is distributed and retained at the
-extremities of the network.
+to run and decode locally. This approach ensures that the intelligence is distributed and retained
+at the extremities of the network.
 
 Also, we are aligned with the Motion Freedom ethical principles: https://omega.gg/about/MotionFreedom
 
