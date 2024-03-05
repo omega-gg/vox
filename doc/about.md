@@ -1,6 +1,6 @@
 # Welcome to vox
 
-The web browser usually packs a decent video player but that's not sufficient for the level of
+Your web browser probably packs a decent video player but that's not sufficient for the level of
 innovation we're pushing with the vox patform:
 - A dedicated language called [VBML](https://omega.gg/VBML)
 - extensive codec support
