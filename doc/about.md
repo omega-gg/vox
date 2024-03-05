@@ -16,7 +16,7 @@ straightforward experience that even a monkey could figure out (no offense to mo
 
 https://omega.gg/MotionMonkey
 
-License: MotionMonkey is closed source and based on Sky kit under the LGPL.
+MotionMonkey is closed source and based on Sky kit under the LGPL license.
 
 ## MotionBox
 
@@ -27,7 +27,7 @@ user interface.
 
 https://omega.gg/MotionBox
 
-License: MotionBox is licensed under the GPL and based on Sky kit under the LPGL.
+MotionBox is licensed under the GPL and based on Sky kit under the LPGL license.
 
 ## I'm a geek, tell me more about it
 
