@@ -6,10 +6,9 @@ patform has the following requirements:
 - Extensive codecs support
 - Distributed communication support
 
-For all this, you need a dedicated [Semantic Player](https://omega.gg/about/SemanticPlayer) that
-fits your requirements. At the moment you have the choice between MotionMonkey and MotionBox,
-although implementing a new player is quite straightforward with the Sky application kit (LGPL
-licensed).
+For all this, you need a dedicated [Semantic Player](https://omega.gg/about/SemanticPlayer). At the
+moment you have the choice between MotionMonkey and MotionBox, although implementing a new player
+is quite straightforward with the Sky application kit (LGPL licensed).
 
 ## MotionMonkey
 
@@ -35,7 +34,7 @@ MotionBox is licensed under the GPL and based on Sky kit under the LPGL license.
 ## I'm a geek, tell me more about it
 
 The vox platform depends on the VBML language that requires an external video player for playback.
-There's both a technical reason and an ethical reasoning behind that choice.
+There's both a technical and an ethical reasoning behind that choice.
 
 Technically, the web standards are limited in terms of codec support, communication protocols and
 scripting languages. When providing a video service you are bound to follow these standards
