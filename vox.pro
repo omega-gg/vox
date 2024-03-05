@@ -3,6 +3,7 @@ OTHER_FILES += configure.sh \
                environment.sh \
                README.md \
                vox.vbml \
+               doc/about.md \
                track/road/road.vbml \
                track/road/local.vbml \
                playlist/innovate.vbml \
