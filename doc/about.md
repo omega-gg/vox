@@ -3,7 +3,7 @@
 Your web browser probably packs a decent video player but that's not sufficient for the level of
 innovation we're pushing with the vox patform:
 - A dedicated language called [VBML](https://omega.gg/VBML)
-- Extensive codec support
+- Extensive codecs support
 - Distributed communication protocols
 
 For all this, you need a dedicated [Semantic Player](https://omega.gg/about/SemanticPlayer) that
