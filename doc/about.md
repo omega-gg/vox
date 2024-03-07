@@ -5,6 +5,7 @@ patform has the following requirements:
 - Support for a dedicated language called [VBML](https://omega.gg/VBML)
 - Extensive codecs support
 - Distributed communication support
+- Raw video frame access
 
 For all this, you need a dedicated [Semantic Player](https://omega.gg/about/SemanticPlayer). At the
 moment you have the choice between MotionMonkey and MotionBox, although implementing a new player
