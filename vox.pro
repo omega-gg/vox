@@ -1,7 +1,4 @@
-OTHER_FILES += configure.sh \
-               push.sh \
-               environment.sh \
-               README.md \
+OTHER_FILES += README.md \
                vox.vbml \
                doc/about.md \
                track/road/road.vbml \
