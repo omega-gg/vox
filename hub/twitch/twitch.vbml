@@ -6,6 +6,15 @@ title: Twitch
 
 cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/twitch/twitch.png
 
-source: https://odysee.com/twitch:29
-
 feed: https://omega.gg/vox/hubs
+
+source:
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/twitch/dist/data/frontA.png
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/twitch/dist/data/frontB.png
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/twitch/dist/data/frontC.png
