@@ -6,6 +6,21 @@ title: The Movie Database
 
 cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/tmdb.png
 
-source: https://odysee.com/tmdb:a
-
 feed: https://omega.gg/vox/hubs
+
+source:
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontA.png
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontB.png
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontC.png
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontD.png
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontE.png
