@@ -9,18 +9,18 @@ cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/tmdb.png
 feed: https://omega.gg/vox/hubs
 
 source:
-    hub:
+    track:
         duration: 0:30
         source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontA.png
-    hub:
+    track:
         duration: 0:30
         source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontB.png
-    hub:
+    track:
         duration: 0:30
         source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontC.png
-    hub:
+    track:
         duration: 0:30
         source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontD.png
-    hub:
+    track:
         duration: 0:30
         source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/dist/data/frontE.png
