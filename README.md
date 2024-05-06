@@ -15,7 +15,7 @@ It's also a video network that's part of the [tevolution](https://omega.gg/about
 Click or drop this VideoTag in a [Semantic Player](https://omega.gg/about/SemanticPlayer) like [MotionMonkey](https://omega.gg/MotionMonkey).<br>
 Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search bar.
 
-## Documentation
+## Resources
 
 - [About vox](/doc/about.md)
 - [Money and the vox platform](/doc/money.md)
