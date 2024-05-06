@@ -9,13 +9,13 @@ deliberatly work against your best interests as a user.
 
 Here is a few idea on how people can make money by producing [VBML](https://omega.gg/VBML) content
 on the vox platform:
-- A patreon page linked in the video via a [VideoTag](https://omega.gg/about/VideoTag) (or in the description).
-- Affiliate links accessed via a VideoTag in the video (or in the description).
+- A patreon page linked via a [VideoTag](https://omega.gg/about/VideoTag) (or in the description).
+- Affiliate links accessed via a VideoTag (or in the description).
 - An advertisement video slice placed inside a VBML multi-track.
 - A commercial product placement in the middle of your video content.
 - A VideoTag that links to premium content behind a paywall on your own website.
 - An interactive video shop that lets you video click on items that you want to purchase.
-- A demonstration of an interactive movie that lets you purchase its full version at the end.
+- An interactive movie that lets you purchase the extended version at the end.
 
 Given the nature of the VBML, it's very easy for a content creator to inject a pre-roll or a
 mid-rool of any kind, just refer to our documentation about [tracks](https://omega.gg/VBML/track).
@@ -24,9 +24,9 @@ However we let you deal with the hosting and traffic measurements of these video
 The vox platform enforces curation, if something goes against our values we might end up notifying
 you and possibly pulling specific content down. However, you retain final control over your content
 and its hosting given the technology surrounding VBML and [Semantic Player(s)](https://omega.gg/about/SemanticPlayer)
-are entirely open. Even this very platform could be forked and hosted under your conditions.
-However our software will never force users to do something against their will, if one wants to
-skip or avoid a video chunk he shall retain the power to do so.
+is entirely open. Even this very platform could be forked and hosted under your conditions.
+You should know our software will never force users to do something against their will, if one
+wants to skip or avoid a video chunk he shall retain the power to do so.
 
 If you have technical questions on how to achieve this, tell us here: https://omega.gg/discord
 
