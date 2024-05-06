@@ -1,4 +1,4 @@
-# Welcome to vox
+# [Welcome to vox](../README.md)
 
 Your web browser packs a video player, however the [vox](https://vox.omega.gg/about/instance)
 patform has the following requirements:

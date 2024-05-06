@@ -1,4 +1,4 @@
-# [vox](../README.md) Money and the vox platform
+# [Money and the vox platform](../README.md)
 
 [vox](https://vox.omega.gg/about/instance) is a libertarian platform based on the [Motion Freedom](https://omega.gg/about/MotionFreedom)
 principles. However these principles are bound to common sense and should be made secondary if
