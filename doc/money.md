@@ -25,8 +25,8 @@ The vox platform enforces curation, if something goes against our values we migh
 you and possibly pulling specific content down. However, you retain final control over your content
 and its hosting given the technology surrounding VBML and [Semantic Player(s)](https://omega.gg/about/SemanticPlayer)
 are entirely open. Even this very platform could be forked and hosted under your conditions.
-However you should know that our software will never force users to do something against their
-will, if one wants to skip or avoid a video chunk he shall retain the power to do so.
+However our software will never force users to do something against their will, if one wants to
+skip or avoid a video chunk he shall retain the power to do so.
 
 If you have technical questions on how to achieve this, tell us here: https://omega.gg/discord
 
