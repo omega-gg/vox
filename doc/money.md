@@ -32,7 +32,9 @@ If you have technical questions on how to achieve this, tell us here: https://om
 
 ## Related resources
 
+- [vox](../README) - VBML hosting platform
 - [VBML](https://omega.gg/VBML) - Video Backend Markup Language
+- [Semantic Player](https://omega.gg/about/SemanticPlayer)
 - [VideoTag](https://omega.gg/about/VideoTag)
 
 ## Related projects

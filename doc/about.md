@@ -1,4 +1,4 @@
-# [Welcome to vox](../README.md)
+# Welcome to vox
 
 Your web browser packs a video player, however the [vox](https://vox.omega.gg/about/instance)
 patform has the following requirements:
@@ -57,6 +57,12 @@ to run and decode locally. This approach ensures that the intelligence is distri
 at the extremities of the network.
 
 Also, we are aligned with the Motion Freedom ethical principles: https://omega.gg/about/MotionFreedom
+
+## Related resources
+
+- [vox](../README) - VBML hosting platform
+- [VBML](https://omega.gg/VBML) - Video Backend Markup Language
+- [Semantic Player](https://omega.gg/about/SemanticPlayer)
 
 ## Related projects
 
