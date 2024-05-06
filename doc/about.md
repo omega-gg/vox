@@ -58,6 +58,8 @@ at the extremities of the network.
 
 Also, we are aligned with the Motion Freedom ethical principles: https://omega.gg/about/MotionFreedom
 
+If you have questions about the platform, tell us here: https://omega.gg/discord
+
 ## Related resources
 
 - [vox](../README.md) - VBML hosting platform
