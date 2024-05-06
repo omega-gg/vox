@@ -3,9 +3,11 @@
 [vox](https://vox.omega.gg/about/instance) is a libertarian platform based on the [Motion Freedom](https://omega.gg/about/MotionFreedom)
 principles. However these principles are bound to common sense and should be made secondary if
 people end up starving to death. That's why we're not against advertisement per say, as long as
-it's done reasonably. The biggest gripe one could have about streaming platforms is not the fact
-that advertisement is present but *mandatory*, meaning that these applications or websites
-deliberatly work against your best interests as a user.
+it's done reasonably.
+
+The biggest gripe one could have about streaming platforms is not the fact that advertisement is
+present but *mandatory*, meaning that these applications or websites deliberatly work against your
+best interests as a user.
 
 Here is a few idea on how people can make money by producing [VBML](https://omega.gg/VBML) content
 on the vox platform:
@@ -25,6 +27,7 @@ The vox platform enforces curation, if something goes against our values we migh
 you and possibly pulling specific content down. However, you retain final control over your content
 and its hosting given the technology surrounding VBML and [Semantic Player(s)](https://omega.gg/about/SemanticPlayer)
 is entirely open. Even this very platform could be forked and hosted under your conditions.
+
 You should know our software will never force users to do something against their will, if one
 wants to skip or avoid a video chunk he shall retain the power to do so.
 
