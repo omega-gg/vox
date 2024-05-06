@@ -12,7 +12,7 @@ best interests as a user.
 Here is a few idea on how people can make money by producing [VBML](https://omega.gg/VBML) content
 on the vox platform:
 - A patreon page linked via a [VideoTag](https://omega.gg/about/VideoTag) (or in the description).
-- Affiliate links accessed via a VideoTag (or in the description).
+- Affiliated links accessed via a VideoTag (or in the description).
 - An advertisement video slice placed inside a VBML multi-track.
 - A commercial product placement in the middle of your video content.
 - A VideoTag that links to premium content behind a paywall on your own website.
