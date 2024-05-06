@@ -2,8 +2,8 @@
 
 [vox](https://vox.omega.gg/about/instance) is a libertarian platform based on the [Motion Freedom](https://omega.gg/about/MotionFreedom)
 principles. However these principles are bound to common sense and should be made secondary if
-people are "starving to death". That's why we're not against advertisement per say, as long as it's
-done reasonably.
+people end up "starving to death". That's why we're not against advertisement per say, as long as
+it's done reasonably.
 
 The biggest gripe one could have about streaming platforms is not the fact that advertisement is
 present but *mandatory*, meaning that these applications or websites deliberatly work against your
