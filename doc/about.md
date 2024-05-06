@@ -60,7 +60,7 @@ Also, we are aligned with the Motion Freedom ethical principles: https://omega.g
 
 ## Related resources
 
-- [vox](../README) - VBML hosting platform
+- [vox](../README.md) - VBML hosting platform
 - [VBML](https://omega.gg/VBML) - Video Backend Markup Language
 - [Semantic Player](https://omega.gg/about/SemanticPlayer)
 
