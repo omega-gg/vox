@@ -17,7 +17,7 @@ Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search b
 
 ## Resources
 
-- [About vox](/doc/about.md)
+- [Welcome to vox](/doc/about.md)
 - [Money and the vox platform](/doc/money.md)
 
 ## Channels
