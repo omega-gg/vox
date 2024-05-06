@@ -1,6 +1,7 @@
 OTHER_FILES += README.md \
                vox.vbml \
                doc/about.md \
+               doc/money.md \
                track/road/road.vbml \
                track/road/local.vbml \
                playlist/innovate.vbml \
