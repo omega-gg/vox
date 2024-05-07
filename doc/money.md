@@ -18,6 +18,7 @@ on the vox platform:
 - A VideoTag that links to premium content behind a paywall on your own website.
 - An interactive video shop that lets you video click on items that you want to purchase.
 - An interactive movie that lets you purchase the extended version at the end.
+- A high resolution downloadable version of your interactive content behind a paywall.
 
 Given the nature of the VBML, it's very easy for a content creator to inject a pre-roll or a
 mid-rool of any kind, just refer to our documentation about [tracks](https://omega.gg/VBML/track).
