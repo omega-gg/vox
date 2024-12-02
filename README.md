@@ -44,6 +44,7 @@ Alternatively you can enter [omega.gg/vox](https://omega.gg/vox) in its search b
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
 - [MotionMonkey](https://omega.gg/MotionMonkey) - Semantic Player
 - [tevolution](https://omega.gg/tevolution) - Remote Video Screen
+- [tevo](https://omega.gg/tevo) - Command line Semantic Player
 - [VBML](https://omega.gg/vbml) - VBML language
 
 ## Authors

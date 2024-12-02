@@ -46,6 +46,7 @@ If you have technical questions on how to achieve this, tell us here: https://om
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
 - [MotionMonkey](https://omega.gg/MotionMonkey) - Semantic Player
 - [tevolution](https://omega.gg/tevolution) - Remote Video Screen
+- [tevo](https://omega.gg/tevo) - Command line Semantic Player
 
 ## Authors
 
