@@ -1,0 +1,17 @@
+# vbml 1.0.6
+
+type: hub
+
+title: Cinemascope
+
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/hub/cinema/cinema.png
+
+feed: https://omega.gg/vox/hubs
+
+source:
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/hub/cinema/dist/data/frontA.png
+    track:
+        duration: 0:30
+        source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/hub/cinema/dist/data/frontB.png
