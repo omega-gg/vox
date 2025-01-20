@@ -10,8 +10,8 @@ feed: https://omega.gg/vox/hubs
 
 source:
     track:
-        duration: 0:30
+        duration: 1:00
         source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/hub/cinema/dist/data/frontA.png
     track:
-        duration: 0:30
+        duration: 1:00
         source: https://raw.githubusercontent.com/omega-gg/vox/master/hub/tmdb/hub/cinema/dist/data/frontB.png
