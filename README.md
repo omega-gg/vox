@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/discord/705770212485496852)](https://omega.gg/discord)
 
 [vox](https://omega.gg/vox) is the first [VBML](https://omega.gg/VBML) hosting platform on the Internet.<br>
-It's also a video network that's part of the [tevolution](https://omega.gg/about/tevolution) initiative.<br>
+It's also a video network that's part of the [tevolution initiative](https://omega.gg/about/tevolution).<br>
 [omega](https://omega.gg/about) is building vox to empower people.<br>
 
 - [vox.omega.gg](https://vox.omega.gg): The vox hosting platform.
